@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 
 
-- References
-  - https://towardsdatascience.com/build-an-impressive-github-profile-in-3-steps-f1938957d480
+#### References
+- https://towardsdatascience.com/build-an-impressive-github-profile-in-3-steps-f1938957d480
