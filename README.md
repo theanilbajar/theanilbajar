@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - :zap: I love programming, machine learning, and creating new products.
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: Currently I'm working on applied machine learning projects especially NLP based projects.
+- :earth_africa: Currently I'm working on applied machine learning projects especially NLP & Graph Mining based projects.
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@theanilbajar)
   - :office: [LinkedIn](https://www.linkedin.com/in/anildyk)
