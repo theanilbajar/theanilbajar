@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - :earth_africa: Currently I'm working on applied machine learning projects especially NLP & Graph Mining based projects.
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@theanilbajar)
-  - :office: [LinkedIn](https://www.linkedin.com/in/anildyk)
+  - :office: [LinkedIn](https://www.linkedin.com/in/theanilbajar)
 
 
 
