@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@theanilbajar)
   - :office: [LinkedIn](https://www.linkedin.com/in/theanilbajar)
-
-
-
-#### References
-- https://towardsdatascience.com/build-an-impressive-github-profile-in-3-steps-f1938957d480
