@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :zap: I love programming, machine learning, and creating new products.
-- 🌱 I’m addicted to learning and growing every day
-- :earth_africa: Currently I'm working on applied machine learning projects especially NLP & Graph Mining based projects.
+- :zap: I am working on applied machine learning and creating new products.
+- 🌱 My current research topic is graph based anomaly detection.
+- :earth_africa: Currently I'm working on applied machine learning projects especially Graph Machine Learning based projects.
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@theanilbajar)
   - :office: [LinkedIn](https://www.linkedin.com/in/theanilbajar)
